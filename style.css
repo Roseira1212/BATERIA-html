@@ -17,7 +17,7 @@ body{
     background-color: rgb(253, 156, 204);
     font-size: 2rem;
     border: 4px rgb(255, 162, 253)
-    border-radius 100px;
+    border-radius: 100px;
 }
 .key:hover{
     background-color: rgb(255, 110, 188);
@@ -33,3 +33,4 @@ body{
  gap: 15px;
 
 }
+
