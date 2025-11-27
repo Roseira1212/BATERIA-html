@@ -14,13 +14,13 @@ body{
     height: 100px;
     align-items: center;
     justify-content: center;
-    background-color: rgb(253, 156, 204);
+    background-color: rgb(273, 116, 104);
     font-size: 2rem;
-    border: 4px rgb(255, 162, 253)
+    border: 4px rgb(155, 262, 153);
     border-radius: 100px;
 }
 .key:hover{
-    background-color: rgb(255, 110, 188);
+    background-color: rgb(255, 210, 288);
 }
 .container{
  width: 100%;
@@ -33,4 +33,5 @@ body{
  gap: 15px;
 
 }
+
 
